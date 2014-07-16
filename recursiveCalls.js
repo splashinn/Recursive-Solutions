@@ -1,5 +1,5 @@
 // recursiveCalls.js
-// (C) 2014 splashinn
+// splashinn
 // simple examples of recursive calls
 
 // directly code the call within then function like:
