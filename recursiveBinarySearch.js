@@ -1,5 +1,5 @@
 // recursiveBinarySearch.js
-// (C) 2014 splashinn
+// splashinn
 
 function binarySearchIterative(arr, ele) {
     var beginning = 0, end = arr.length,
